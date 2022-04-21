@@ -3,8 +3,8 @@ from streamlit_webrtc import webrtc_streamer
 import av
 import cv2
 
-st.title("My first Streamlit app")
-st.write("Hello, world")
+st.title("Streamlit Test")
+st.write("Capture Image")
 
 
 class VideoProcessor:
